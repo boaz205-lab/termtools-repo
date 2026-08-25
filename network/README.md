@@ -26,7 +26,7 @@ A single-run shell script that checks a target host for open or closed ports - n
 
 ```bash
 
-git clone https://github.com/boazobondo205-lab/bash-toolkit-repo.git
+git clone https://github.com/boaz205-lab/bash-toolkit-repo.git
 cd network
 ```
 
