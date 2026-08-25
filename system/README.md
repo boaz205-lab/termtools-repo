@@ -30,7 +30,7 @@ A single-run shell script that prints a full system snapshot to the terminal —
 #### 1. Clone the repo
 
 ```bash
-git clone https://github.com/boazobondo205-lab/bash-toolkit-repo.git
+git clone https://github.com/boaz205-lab/bash-toolkit-repo.git
 cd system
 ```
 

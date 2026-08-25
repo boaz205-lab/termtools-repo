@@ -23,7 +23,7 @@ Also self installs to PATH on first run to enable calling from anywhere afterwar
 **Clone repo**
 
 ```bash
-git clone https://github.com/boazobondo205-lab/bash-toolkit-repo.git
+git clone https://github.com/boaz205-lab/bash-toolkit-repo.git
 cd dev
 ```
 
