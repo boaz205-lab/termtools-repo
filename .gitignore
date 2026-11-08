@@ -1,2 +1,22 @@
 install.sh
 *.kate-swp
+
+# C/C++
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.d
+*.ilk
+*.pdb
+
+# Build directories
+/build/
+/cmake-build-*/
