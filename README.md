@@ -1,4 +1,4 @@
-# Bash Toolkit 
+# A minimal terminal toolkit for day to day sysadmin/devops activities
 
 
 A growing collection of bash scripts for system administration, network recon, dev and security tasks
@@ -13,16 +13,18 @@ A growing collection of bash scripts for system administration, network recon, d
 
 - [dev/](dev/README.md) - dev tools
 
-- [security/] - coming soon
+- [security/](security/README.md) - security tools
 
 ## Requirements 
 
 
-- bash
+- bash/fish/zsh
 
 - 'nc' (netcat) - used by network scripts
 
 - gcc/g++
+
+- curl, whois, dig
 
 
 ## License

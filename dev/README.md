@@ -8,7 +8,7 @@
 **What it does**
 
 
-Compiles and runs a C/C++ source file in one step - no more typing 'gcc file.c -o file && .file' manually everytime.
+Compiles a C/C++ source file into the repository's `bin/` directory and runs it - no more typing 'gcc file.c -o file && ./file' manually everytime.
 Also self installs to PATH on first run to enable calling from anywhere afterward.
 
 
@@ -23,7 +23,7 @@ Also self installs to PATH on first run to enable calling from anywhere afterwar
 **Clone repo**
 
 ```bash
-git clone https://github.com/boaz205-lab/bash-toolkit-repo.git
+git clone https://github.com/boaz205-lab/termtools-repo.git
 cd dev
 ```
 
@@ -40,6 +40,8 @@ chmod +x run.sh
 source ~/.bashrc    # relad once after first run
 run.sh myfile.c    # now works from anywhere
 ```
+
+Compiled executables are written to `../bin/` relative to `run.sh`, regardless of the current working directory.
 
 ***Known limitations***
 
