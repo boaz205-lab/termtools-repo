@@ -1,11 +1,10 @@
 # A minimal terminal toolkit for day to day sysadmin/devops activities
 
-
 A growing collection of bash scripts for system administration, network recon, dev and security tasks
 
+---
 
 ## Categories
-
 
 - [system/](system/README.md) - system information and diagnostics
 
@@ -15,8 +14,9 @@ A growing collection of bash scripts for system administration, network recon, d
 
 - [security/](security/README.md) - security tools
 
-## Requirements 
+---
 
+## Requirements
 
 - bash/fish/zsh
 
@@ -26,8 +26,8 @@ A growing collection of bash scripts for system administration, network recon, d
 
 - curl, whois, dig
 
+---
 
 ## License
-
 
 MIT - see [LICENSE](LICENSE)
