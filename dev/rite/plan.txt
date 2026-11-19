@@ -1,0 +1,9 @@
+launch with rite.sh
+accept f_name as input in cpp
+if f_name not *.c or *.cpp out invalid 
+else continue
+if exixts edit mode: cat and append
+else write mode
+write
+save cmd
+run cmd - trigger run.sh with parsed fname as arg
